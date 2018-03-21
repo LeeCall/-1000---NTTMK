@@ -1,0 +1,7 @@
+77. Viết chương trình tính tổng của dãy số sau : S(n) = 1 + 2 + 3 + … + n. (code Recursion[Đệ quy] nha mấy pồ !!!).
+
+90. Viết chương trình tìm số nguyên dương M lớn nhất sao cho 1 + 2 + 3 + … + M < N. (N là 1 số cho trước).
+
+93. Viết chương trình kiểm tra một số có phải số nguyên tố hay không.
+
+109.Viết chương trình in bảng cửu chương ra màn hình.(Câu này ráng code càng ngắn càng tốt. Hint: 2 vòng for lồng nhau).
